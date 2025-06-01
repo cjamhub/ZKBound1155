@@ -1,0 +1,7 @@
+# Build Project
+
+```
+
+npm install --save-dev hardhat
+npx hardhat init
+```
